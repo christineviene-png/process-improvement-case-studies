@@ -31,3 +31,8 @@ Contribution:
 
 Outcome:
 Secured $400K in funding.
+
+## Lessons Learned
+- Clear operating rhythms reduce coordination friction
+- Process adoption matters as much as process design
+- Sustainable systems create leverage over time

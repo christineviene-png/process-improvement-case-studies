@@ -3,16 +3,13 @@
 ## Case Study: 47% Readiness Improvement
 
 Problem:
-Coordination friction was reducing operational readiness.
+Coordination friction and inconsistent workflows were reducing readiness.
 
-Actions Taken:
-- Redesigned workflows
-- Improved communication loops
-- Standardized scheduling processes
-- Introduced repeatable operating rhythm
+Solution:
+Built a repeatable operating framework focused on scheduling discipline, communication loops, and process standardization.
 
 Outcome:
-47% improvement in readiness.
+Improved organizational readiness by 47%.
 
 Lessons:
 Strong systems create leverage.

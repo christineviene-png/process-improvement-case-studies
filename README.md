@@ -23,15 +23,13 @@ Strong systems create leverage.
 ## Case Study: $400K Funding Coordination
 
 Problem:
-Funding opportunity required multi-agency alignment.
+Program growth required external funding and multi-agency alignment.
 
 Contribution:
-- Stakeholder coordination
-- Documentation preparation
-- Executive-level presentation support
+Led coordination, prepared supporting documentation, and aligned stakeholders around the funding package.
 
 Outcome:
-Secured $400K in funding.
+Secured $400K in funding to support expansion.
 
 ## Lessons Learned
 - Clear operating rhythms reduce coordination friction

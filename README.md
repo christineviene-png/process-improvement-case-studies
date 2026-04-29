@@ -1,7 +1,5 @@
 # Process Improvement Case Studies
 
-Case studies documenting process improvement, systems-building, and measurable operational impact.
-
 ## Case Study: 47% Readiness Improvement
 
 Problem:
